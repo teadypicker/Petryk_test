@@ -5,6 +5,9 @@
                     },
                     {
                         "path":  "Petryk_test"
+                    },
+                    {
+                        "path":  "App2.Test"
                     }
                 ],
     "settings":  {
